@@ -12,7 +12,7 @@
   * VPN Setup in Virtual Machine
 
 ## 📩 Contact Me
-www.linkedin.com/in/ruairc-hannan-a40700198
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
 
 <!--
 **CodeMonkey123456/CodeMonkey123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
