@@ -1,7 +1,15 @@
 ## Hello I'm Ruairc, an IT Specialist 😊
 
 ## 🖥️ Information Technology Projects 🖥️
-xyz
+osTicket: Creating a Ticketing System for Help Desk
+osTicket: Prerequisites and Installation
+osTicket: Post-Installation Configuration
+osTicket: Ticket Lifecycle Examples
+Microsoft Azure
+Setting Up Active Directory using Azure VMs
+Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark
+Virtual Private Network
+VPN Setup in Virtual Machine
 
 ## 📩 Contact Me
 www.linkedin.com/in/ruairc-hannan-a40700198
