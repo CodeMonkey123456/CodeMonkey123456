@@ -1,6 +1,10 @@
-## Hello I'm Ruairc, an IT Specialist
+## Hello I'm Ruairc, an IT Specialist 😊
 
-## Information Technology Projects
+## 🖥️ Information Technology Projects 🖥️
+xyz
+
+## 📩 Contact Me
+www.linkedin.com/in/ruairc-hannan-a40700198
 
 <!--
 **CodeMonkey123456/CodeMonkey123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
