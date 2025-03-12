@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello I'm Ruairc, an IT Specialist
+
+## Information Technology Projects
 
 <!--
 **CodeMonkey123456/CodeMonkey123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
