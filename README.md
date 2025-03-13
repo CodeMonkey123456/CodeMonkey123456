@@ -9,7 +9,7 @@
   * [Setting Up Active Directory using Azure VMs](https://github.com/CodeMonkey123456/configure-ad/blob/main/README.md)
   * [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/CodeMonkey123456/azure-network-protocols/blob/main/README.md)
 * Virtual Private Network
-  * VPN Setup in Virtual Machine
+  * [VPN Setup in Virtual Machine](https://github.com/CodeMonkey123456/setting-up-VPN)
 
 ## 📩 Contact Me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruairc-hannan-a40700198)
