@@ -3,11 +3,11 @@
 ## 🖥️ Information Technology Projects 🖥️
 * osTicket: Creating a Ticketing System for Help Desk
   * osTicket: [Prerequisites and Installation](https://github.com/CodeMonkey123456/osticket-prereqs)
-  * osTicket: [Post-Installation Configuration](https://github.com/CodeMonkey123456/post-install-config/blob/main/README.md)
+  * osTicket: [Post-Installation Configuration](https://github.com/CodeMonkey123456/post-install-config)
   * osTicket: [Ticket Lifecycle Examples](https://github.com/CodeMonkey123456/ticket-lifecycle)
 * Microsoft Azure
-  * [Setting Up Active Directory using Azure VMs](https://github.com/CodeMonkey123456/configure-ad/blob/main/README.md)
-  * [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/CodeMonkey123456/azure-network-protocols/blob/main/README.md)
+  * [Setting Up Active Directory using Azure VMs](https://github.com/CodeMonkey123456/configure-ad)
+  * [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/CodeMonkey123456/azure-network-protocols)
 * Virtual Private Network
   * [VPN Setup in Virtual Machine](https://github.com/CodeMonkey123456/setting-up-VPN)
 
