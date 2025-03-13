@@ -7,7 +7,7 @@
   * osTicket: [Ticket Lifecycle Examples](https://github.com/CodeMonkey123456/ticket-lifecycle/blob/main/README.md)
 * Microsoft Azure
   * [Setting Up Active Directory using Azure VMs](https://github.com/CodeMonkey123456/configure-ad/blob/main/README.md)
-  * Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark
+  * [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/CodeMonkey123456/azure-network-protocols/blob/main/README.md)
 * Virtual Private Network
   * VPN Setup in Virtual Machine
 
