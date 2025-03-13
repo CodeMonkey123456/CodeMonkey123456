@@ -2,7 +2,7 @@
 
 ## 🖥️ Information Technology Projects 🖥️
 * osTicket: Creating a Ticketing System for Help Desk
-  * osTicket: [Prerequisites and Installation}(https://github.com/CodeMonkey123456/osticket-prereqs)
+  * osTicket: [Prerequisites and Installation](https://github.com/CodeMonkey123456/osticket-prereqs)
   * osTicket: Post-Installation Configuration
   * osTicket: Ticket Lifecycle Examples
 * Microsoft Azure
