@@ -3,7 +3,7 @@
 ## 🖥️ Information Technology Projects 🖥️
 * osTicket: Creating a Ticketing System for Help Desk
   * osTicket: [Prerequisites and Installation](https://github.com/CodeMonkey123456/osticket-prereqs)
-  * osTicket: Post-Installation Configuration
+  * osTicket: [Post-Installation Configuration](https://github.com/CodeMonkey123456/post-install-config/blob/main/README.md)
   * osTicket: Ticket Lifecycle Examples
 * Microsoft Azure
   * Setting Up Active Directory using Azure VMs
