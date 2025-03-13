@@ -6,7 +6,7 @@
   * osTicket: [Post-Installation Configuration](https://github.com/CodeMonkey123456/post-install-config/blob/main/README.md)
   * osTicket: [Ticket Lifecycle Examples](https://github.com/CodeMonkey123456/ticket-lifecycle/blob/main/README.md)
 * Microsoft Azure
-  * Setting Up Active Directory using Azure VMs
+  * [Setting Up Active Directory using Azure VMs](https://github.com/CodeMonkey123456/configure-ad/blob/main/README.md)
   * Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark
 * Virtual Private Network
   * VPN Setup in Virtual Machine
